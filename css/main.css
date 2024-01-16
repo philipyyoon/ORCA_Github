@@ -1,0 +1,17 @@
+body {
+    background: #FFCC00;
+    font-family: 'Tsukimi Rounded', sans-serif;
+}
+h1 {
+    color: #500049;
+    background-color: yellow;
+    text-align: right;
+}
+img {
+    max-width: 50%;
+}
+@media only screen and (max-width: 600px)           {
+    body {
+        background: blue;
+        }
+}
